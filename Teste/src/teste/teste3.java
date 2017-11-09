@@ -9,6 +9,6 @@ package teste;
  *
  * @author Adam
  */
-public class Teste2 {
+public class teste3 {
     
 }
